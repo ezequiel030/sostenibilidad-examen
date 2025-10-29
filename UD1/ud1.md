@@ -3,5 +3,5 @@
 ![Sostenibilidad](img/mundo-sostenible_2.jpg)
 
 <p align="center">
-  <a href="README.md">🏠 Índice</a> |
+  <a href="../README.md">🏠 Índice</a> |
 </p>
