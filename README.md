@@ -6,6 +6,7 @@ Hemos utilizado dos badges para darle un toque más profesional a la documentaci
 <img alt="Static Badge" src="https://img.shields.io/badge/Sostenibilidad-TICs%20y%20Medio%20Ambiente-verde">
 
 Índice:
+
 [UD1.Introducción](introduccion.md)
 
 UD2. Introducción
